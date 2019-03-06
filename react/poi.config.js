@@ -4,7 +4,7 @@ const existFilter = a => a;
 
 module.exports = {
   entry: [
-    isProduction && 'node_modules/@babel/polyfill',
+    'node_modules/@babel/polyfill',
     isProduction && 'node_modules/disable-react-devtools',
     isProduction && 'src/registerServiceWorker',
     'src/index',
