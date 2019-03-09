@@ -4,5 +4,8 @@
   "eslint.enable": true,
   "files.eol": "\n",
   "files.insertFinalNewline": true,
-  "files.trimFinalNewlines": true
+  "files.trimFinalNewlines": true,
+  "path-intellisense.mappings": {
+    "@": "${workspaceRoot}/src"
+  }
 }
