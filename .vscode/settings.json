@@ -1,5 +1,6 @@
 {
   "editor.formatOnSave": true,
+  "editor.tabSize": 2,
   "eslint.autoFixOnSave": false,
   "eslint.enable": true,
   "eslint.validate": [
@@ -13,9 +14,6 @@
   "files.eol": "\n",
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
-  "path-intellisense.mappings": {
-    "@": "${workspaceRoot}/src"
-  },
   "prettier.disableLanguages": [],
   "vetur.format.defaultFormatter.css": "none",
   "vetur.format.defaultFormatter.html": "none",
