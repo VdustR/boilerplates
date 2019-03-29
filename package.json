@@ -1,6 +1,20 @@
 {
   "name": "my-boilerplate",
   "version": "1.0.0",
+  "author": {
+    "name": "ViPro",
+    "email": "VdustR@gmail.com",
+    "url": "https://VdustR.github.io"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/VdustR/my-boilerplates",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VdustR/my-boilerplates.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VdustR/my-boilerplates/issues"
+  },
   "private": true,
   "scripts": {
     "commit": "git-cz",

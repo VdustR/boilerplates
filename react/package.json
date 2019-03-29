@@ -1,6 +1,20 @@
 {
   "name": "my-react",
   "version": "0.1.0",
+  "author": {
+    "name": "",
+    "email": "",
+    "url": ""
+  },
+  "license": "",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
   "private": true,
   "scripts": {
     "build": "poi --prod",
