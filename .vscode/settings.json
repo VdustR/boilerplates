@@ -8,10 +8,9 @@
   "eslint.validate": [
     "javascript",
     "javascriptreact",
-    {
-      "autoFix": false,
-      "language": "vue"
-    }
+    "typescript",
+    "typescriptreact",
+    "vue"
   ],
   "files.eol": "\n",
   "files.insertFinalNewline": true,

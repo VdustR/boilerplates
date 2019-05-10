@@ -1,4 +1,5 @@
-/CHANGELOG.md
+CHANGELOG.md
+/*/dist
 
 .vscode/*
 !.vscode/settings.json

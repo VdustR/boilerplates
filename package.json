@@ -21,22 +21,25 @@
     "version": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0 && git add CHANGELOG.md"
   },
   "devDependencies": {
-    "@commitlint/cli": "^7.5.2",
-    "@commitlint/config-conventional": "^7.5.0",
+    "@commitlint/cli": "^7.6.1",
+    "@commitlint/config-conventional": "^7.6.0",
     "commitizen": "^3.1.1",
-    "conventional-changelog-cli": "^2.0.17",
+    "conventional-changelog-cli": "^2.0.21",
     "cz-conventional-changelog": "^2.1.0",
-    "eslint": "^5.16.0",
     "eslint-config-prettier": "^4.2.0",
     "eslint-config-standard": "^12.0.0",
     "eslint-plugin-import": "^2.17.2",
-    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-node": "^9.0.1",
     "eslint-plugin-prettier": "^3.0.1",
     "eslint-plugin-promise": "^4.1.1",
     "eslint-plugin-standard": "^4.0.0",
-    "husky": "^2.1.0",
-    "lint-staged": "^8.1.5",
-    "prettier": "^1.17.0"
+    "eslint-plugin-vue": "^5.2.2",
+    "husky": "^2.2.0",
+    "lint-staged": "^8.1.6",
+    "prettier": "^1.17.0",
+    "react": "^16.8.6",
+    "react-scripts": "^3.0.1",
+    "typescript": "^3.4.5"
   },
   "config": {
     "commitizen": {
