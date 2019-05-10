@@ -1,4 +1,4 @@
-# my-vue
+# ts-vue
 
 ## Project setup
 

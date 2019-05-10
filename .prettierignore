@@ -1,5 +1,6 @@
 CHANGELOG.md
-/*/dist
+/react/dist
+/vue/dist
 
 .vscode/*
 !.vscode/settings.json

@@ -16,6 +16,7 @@
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
   "prettier.disableLanguages": [],
+  "typescript.tsdk": "node_modules/typescript/lib",
   "vetur.format.defaultFormatter.css": "none",
   "vetur.format.defaultFormatter.html": "none",
   "vetur.format.defaultFormatter.js": "none",

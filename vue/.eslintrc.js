@@ -3,7 +3,12 @@ module.exports = {
   env: {
     node: true,
   },
-  extends: ['standard', 'plugin:vue/recommended', 'prettier'],
+  extends: [
+    'standard',
+    'plugin:vue/recommended',
+    '@vue/typescript',
+    'prettier',
+  ],
   rules: {
     'no-console': process.env.NODE_ENV === 'production' ? 'error' : 'off',
     'no-debugger': process.env.NODE_ENV === 'production' ? 'error' : 'off',
@@ -18,6 +23,6 @@ module.exports = {
     'vue/singleline-html-element-content-newline': 'off',
   },
   parserOptions: {
-    parser: 'babel-eslint',
+    parser: '@typescript-eslint/parser',
   },
 };
