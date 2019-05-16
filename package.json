@@ -1,6 +1,7 @@
 {
-  "name": "my-boilerplate",
+  "name": "boilerplate",
   "version": "1.0.0",
+  "description": "Boilerplates for repositories.",
   "author": {
     "name": "ViPro",
     "email": "VdustR@gmail.com",
