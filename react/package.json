@@ -46,7 +46,6 @@
   },
   "dependencies": {
     "@hot-loader/react-dom": "^16.8.6",
-    "emotion": "^10.0.9",
     "react": "^16.8.6",
     "react-hot-loader": "^4.8.8"
   },
