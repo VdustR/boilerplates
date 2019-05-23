@@ -29,16 +29,16 @@
     "@commitlint/config-conventional": "^7.6.0",
     "@poi/plugin-eslint": "^12.0.0",
     "@poi/plugin-pwa": "^12.0.3",
-    "@types/react": "^16.8.17",
+    "@types/react": "^16.8.18",
     "@types/react-dom": "^16.8.4",
     "commitizen": "^3.1.1",
     "conventional-changelog-cli": "^2.0.21",
     "cz-conventional-changelog": "^2.1.0",
     "disable-react-devtools": "^1.0.0",
-    "husky": "^2.2.0",
-    "lint-staged": "^8.1.6",
+    "husky": "^2.3.0",
+    "lint-staged": "^8.1.7",
     "poi": "^12.6.8",
-    "prettier": "^1.17.0",
+    "prettier": "^1.17.1",
     "react-scripts": "^3.0.1",
     "register-service-worker": "^1.6.2",
     "typescript": "^3.4.5",
@@ -48,7 +48,7 @@
     "@hot-loader/react-dom": "^16.8.6",
     "emotion": "^10.0.9",
     "react": "^16.8.6",
-    "react-hot-loader": "^4.8.4"
+    "react-hot-loader": "^4.8.8"
   },
   "config": {
     "commitizen": {
