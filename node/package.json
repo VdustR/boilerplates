@@ -55,6 +55,6 @@
       "prettier --write",
       "git add"
     ],
-    "*.{js}": "eslint"
+    "*.js": "eslint"
   }
 }
